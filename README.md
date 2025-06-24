@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+Cryptocurrency Banking System dApp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+The rise of blockchain technology has revolutionized the way financial systems operate by enhancing transparency, security, and efficiency. In traditional banking, centralized systems often face challenges related to trust, data integrity, and transaction delays. A blockchain-based bank system offers a decentralized solution that can overcome these limitations by using cryptographic methods and distributed ledger technology.
